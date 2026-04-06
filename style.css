@@ -1,11 +1,10 @@
 body{
-background-color: #5998ebeb;
-color: black;
-text-align: center;
+    background-color: #5998ebeb;
+    color: black;
+    text-align: center;
 }
- .imagem{
- height: 10px;
-}
-body{
-    height: 50px;
-}
+img {
+    width: 50%; /* Diminui para metade da largura do container */
+    height: auto; /* Mantém a proporção */
+  }
+   
